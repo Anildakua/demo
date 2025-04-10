@@ -1,5 +1,9 @@
 
 hello ajay my name is rashmi 
 hell anil you are hero
+<<<<<<< HEAD
 hello aya
 
+=======
+hello i am don 
+>>>>>>> Anil
